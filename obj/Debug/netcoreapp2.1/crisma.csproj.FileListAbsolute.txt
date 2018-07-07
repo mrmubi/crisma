@@ -1,0 +1,11 @@
+C:\Users\MubshirRazaAli\crisma\bin\Debug\netcoreapp2.1\crisma.deps.json
+C:\Users\MubshirRazaAli\crisma\bin\Debug\netcoreapp2.1\crisma.runtimeconfig.json
+C:\Users\MubshirRazaAli\crisma\bin\Debug\netcoreapp2.1\crisma.runtimeconfig.dev.json
+C:\Users\MubshirRazaAli\crisma\bin\Debug\netcoreapp2.1\crisma.dll
+C:\Users\MubshirRazaAli\crisma\bin\Debug\netcoreapp2.1\crisma.pdb
+C:\Users\MubshirRazaAli\crisma\obj\Debug\netcoreapp2.1\crisma.csproj.CoreCompileInputs.cache
+C:\Users\MubshirRazaAli\crisma\obj\Debug\netcoreapp2.1\crisma.AssemblyInfoInputs.cache
+C:\Users\MubshirRazaAli\crisma\obj\Debug\netcoreapp2.1\crisma.AssemblyInfo.cs
+C:\Users\MubshirRazaAli\crisma\obj\Debug\netcoreapp2.1\crisma.dll
+C:\Users\MubshirRazaAli\crisma\obj\Debug\netcoreapp2.1\crisma.pdb
+C:\Users\MubshirRazaAli\crisma\obj\Debug\netcoreapp2.1\crisma.csprojResolveAssemblyReference.cache
